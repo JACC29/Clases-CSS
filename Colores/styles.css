@@ -1,0 +1,13 @@
+.box {
+    padding: 50px;
+    background: hsl(200, 40%, 85%);
+    margin: 20px;
+    margin-left: 100px;
+    text-align: center;
+    color: hsl(180, 45%, 20%);
+    border-top: 4px solid hsl(200, 40%, 30%);
+    border-bottom: 5px solid #8af;
+    border-radius: 6px;
+    font-family: Verdana;
+
+}
